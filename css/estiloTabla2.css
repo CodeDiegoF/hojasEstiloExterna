@@ -1,0 +1,40 @@
+table{
+    border-collapse: collapse;
+    width: 600px;
+    height: 400px;
+    margin-left: 200px;
+}
+
+table th, table td{
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    height: 90px;
+}
+
+table th.cabecera{
+    background: #08088e;
+    font-family: "sans-serif";
+    color: #ffffff;
+}
+
+table th.cabecera:hover{
+    background: #000000;
+    font-family: "sans-serif";
+    color: #fff200;
+    height: 200px;
+}
+
+table tr.verde-claro{
+    background: lightgreen
+}
+
+table tr.azul-claro{
+    background: lightblue;
+}
+
+table tr.azul-claro:hover{
+    font-size: 30px;
+    color: rgb(181, 213, 0);
+    font-weight: bold;
+    height: 200px;
+}

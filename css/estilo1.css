@@ -1,0 +1,23 @@
+		* {
+			background-color: lightpink;
+		}
+
+		
+		h1 {
+			color: blue;
+		}
+
+		
+		#descripcion {
+			color: rgb(4, 201, 4);
+		}
+
+		
+		.item {
+			color: #FFA500;
+		}
+
+		
+		p span {
+			color: yellow;
+		}

@@ -1,0 +1,18 @@
+p.dotted {
+    border-style: dotted;
+}
+
+p.three {
+    border-style: solid;   /* ← Faltaba esto */
+    border-width: thin thick;
+}
+
+p.four {
+    border-style: solid;   /* ← Faltaba esto */
+    border-width: 5px;     /* recomendable definir ancho */
+    border-color: white rgb(190, 6, 190) rgb(0, 0, 221);
+}
+
+body{
+    background-color: bisque;
+}

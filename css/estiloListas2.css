@@ -1,0 +1,36 @@
+   body{
+        font-family: Georgia, serif;
+        margin: 0;
+        background-color: #f2f2f2;
+    }
+
+    h2{
+        margin: 0;
+        padding: 15px;
+        background-color: #d9d9d9;
+        font-weight: bold;
+    }
+
+    p{
+        font-style: italic;
+    }
+
+   /* 2º DAW */
+    .daw2 {
+        list-style-type: square;
+        background-color: #0f5be9;
+        list-style-image: url(../imgs/flecha.png);
+    }
+
+    /* 1º DAM */
+    .dam1 {
+        list-style-type: lower-greek;
+        background-color: #e09915;
+    }
+
+            /* 2º DAM */
+    .dam2 {
+        list-style-type: disc;
+         background-color: #d620af;
+         list-style-image: url(../imgs/diamante.png);
+    }

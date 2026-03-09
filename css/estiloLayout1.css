@@ -1,0 +1,37 @@
+#cabecera, #contenedor, #menu1, #menu2, #pie{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+#cabecera{
+    background-color: aqua;
+    height: 8em;
+}
+
+#menu1{
+    float: left;
+    width: 20%;
+    height: 32em;
+    background-color: blueviolet;
+}
+
+#menu2{
+    float: right;
+    width: 20%;
+    height: 32em;
+    background-color: blueviolet;
+}
+
+#contenedor{
+    float: left;
+    width: 60%;
+    height: 32em;
+    background-color: coral;
+}
+
+#pie{
+    clear: both;
+    height: 8em;
+    background-color: cornflowerblue;
+}

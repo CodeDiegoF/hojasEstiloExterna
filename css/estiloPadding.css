@@ -1,0 +1,31 @@
+        body {
+            background-color: bisque;
+            font-family: Arial, sans-serif;
+        }
+
+        div {
+            border: 2px dashed #333;
+            background-color: white;
+            margin-bottom: 30px;
+            width: 300px;       
+        }
+
+        .caja1 {
+            background-color: #ffcdcd; 
+            padding: 20px; 
+        }
+
+        .caja2 {
+            background-color: greenyellow; 
+            padding-top: 10px;
+            padding-right: 40px;   
+            padding-bottom: 30px;  
+            padding-left: 10px;
+        }
+
+        .caja3 {
+            background-color: #ffff60; 
+            padding: 10px 20px 30px 40px;
+            border-style: solid;
+            border-color: orange;
+        }

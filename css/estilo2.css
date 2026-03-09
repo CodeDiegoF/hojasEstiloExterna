@@ -1,0 +1,27 @@
+		* {
+			text-align: center;
+		}
+
+
+		h1 {
+			font-family: 'Times New Roman', Times, serif;
+			font-style: italic;
+			font-weight: bold;
+		}
+
+
+		ul {
+			line-height: 1.5;
+			letter-spacing: 5px;
+			word-spacing: 10px;
+		}
+
+
+		.parrafo1{
+			text-decoration: underline;
+			text-indent: 30px;
+		}
+
+		ul li{
+			text-transform: uppercase
+		}
